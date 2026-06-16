@@ -136,8 +136,8 @@ footer button{
 	position: fixed;
 	bottom: 100px;
 	right: calc(4% + 30px);
-	width: 40px;
-	height: 40px;
+	width: 60px;
+	height: 60px;
 	border-radius: 50%;
 	border: 1px solid #757575;
 	background-color: #fff;
