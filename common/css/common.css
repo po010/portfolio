@@ -140,6 +140,7 @@ footer button{
 	height: 40px;
 	border-radius: 50%;
 	border: 1px solid #757575;
+	background-color: #fff;
 	padding: 0;
 	font-family:"Noto Sans JP", "Noto Sans", sans-serif;
 	opacity: 0;
